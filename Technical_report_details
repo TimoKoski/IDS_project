@@ -1,8 +1,14 @@
 Challenges:
 - Narrowing the project down
-- 
+- Keeping our story and point of view in mind. When doing initial data analysis and preprocessing, we drifted a bit because data was partially a bit overwhelming and thus made
+it difficult to draw clear connections and conclusions to our original idea. Example of this would be the generality of the owid energy data, which was harder than expected 
+to connect into our thinking.
 
 Process:
-- Setting up collaboration environments
+- Setting up collaboration environments in Google Drive and GitHub
+- For initial data analysis we loaded the data into Jupyter Notebook, and familiarized ourselves with the contens of the four source sets. One of the data sets (owid) was
+so complex, that we needed to slice it down for smaller segments to identify what story it was telling us, and in what way we could derive some value from it. Overall analysis
+included slicing, plotting, sampling and simple calculations. For recycling data set it was less obvious what data set should we use (ended up identifying paper & cardboard 
+packaging data as best option).
 
 
