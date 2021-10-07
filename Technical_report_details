@@ -10,5 +10,7 @@ Process:
 so complex, that we needed to slice it down for smaller segments to identify what story it was telling us, and in what way we could derive some value from it. Overall analysis
 included slicing, plotting, sampling and simple calculations. For recycling data set it was less obvious what data set should we use (ended up identifying paper & cardboard 
 packaging data as best option).
+- After initial commit, more formal folder structure was created to enable better collaboration and general easiness of use. Also one bug fix with file extensions was fixed.
+- When planning preprocessing, noticed that some additional information from paper produciton industry is required. Found one report from industry and added that as supplementary document.
 
 
