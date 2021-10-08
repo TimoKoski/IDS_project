@@ -1,4 +1,5 @@
 Challenges:
+- Data exploration
 - Narrowing the project down
 - Keeping our story and point of view in mind. When doing initial data analysis and preprocessing, we drifted a bit because data was partially a bit overwhelming and thus made
 it difficult to draw clear connections and conclusions to our original idea. Example of this would be the generality of the owid energy data, which was harder than expected 
