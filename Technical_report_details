@@ -1,9 +1,13 @@
 Challenges:
-- Data exploration
-- Narrowing the project down
-- Keeping our story and point of view in mind. When doing initial data analysis and preprocessing, we drifted a bit because data was partially a bit overwhelming and thus made
-it difficult to draw clear connections and conclusions to our original idea. Example of this would be the generality of the owid energy data, which was harder than expected 
-to connect into our thinking.
+- After we had decided on a question we wanted to address in our group work, we begun data exploration to see if we can find evidence to build a proper argument. It posed a real 
+challenge. Production processes for tablets and paper are complex and diverse. And same goes for energy production and recycling. Respectively, data were overwhelming. 
+We skimmed through around ten data sources to get an idea what we are looking at.
+- After we had a bit of general understanding, it was time to start reitereate the question and decide onto what we want really to focus on. Narrowing the project down was hard.
+In the end, we deemed that production process was just too broad issue to be handled in the boundary conditions presented by the course. Thus we decided to look at energy
+consumption duting the use and paper recycling as a second point of view.
+- Keeping our story and point of view in mind. When doing initial data analysis and preprocessing, we drifted a bit because even after narrowing the project down 
+data was partially a bit overwhelming and thus made it difficult to draw clear connections and conclusions to our original idea. Example of this would be the generality 
+of the owid energy data, which was harder than expected to connect into our thinking.
 
 Process:
 - Setting up collaboration environments in Google Drive and GitHub
