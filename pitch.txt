@@ -1,28 +1,28 @@
 <possible starter slide>
 
-Hi all. 
+Hi all. Timo here.
 
-Thrilled to be here with you, our team feels very priviledged to address this well-informed audience. :)
+Thrilled to be here with you, our team feels very priviledged to present for this well-informed audience. :) So, let's go!
 
 -
 
 < climate change meme picture >
 So, climate change. The deeply substantial change that we all see around us. It affects us in many ways, and most of us would love to do our best to fight it - to mitigate the risks and avoid the looming disaster.
 
-Even though single individuals efforts only go so far, and might feel somewhat miniscule or meaningless from time to time in our global context, they still send a very clear and motivating message to all others. 
-We want to do something with our everyday choices. We want to choose the more ecological path where ever we can.
+Even though single individuals efforts only go so far, and might feel somewhat miniscule or meaningless from time to time in our global context, they still send a very clear and motivating message to all others, including
+our politicians. We all want to do something with our everyday choices. We want to choose the more ecological path where ever we can.
 
 -
 < tablet vs pen paper picture >
-Our team has chosen a topic less addressed, but probably very close to all students' hearts. Note taking. We want to to help each and everyone of us to determine if it would be more ecological to use digital 
-appliances or stick to the traditional pen and paper. 
+Our team has chosen a topic less addressed, but probably very close to all students' hearts. Note taking. So, what we want to do, is to help each 
+and everyone of us to determine if it would be more ecological to use digital appliances or stick to the traditional pen and paper. 
 
 -
 < mock-up map picture with recycling rate & energy production graphs >
 We are building a map-based tool in which you can refer to your precise country. It will for example bring up the energy production volumes and types (such as a share of wind, solar or coal in the network)
-in the given country - or paper recycling rates, to highlight to what extent we are able to reuse those well-served notes. And with this information, we then help everyone to determine 
-should one pick up the pen, or rather purchase a tablet, to reduce our ecological footprint.
+in the given country - or paper recycling rates, to highlight to what extent we are able to reuse those well-served notes. And with this information, we then come up with a conclusion, suggestion and 
+help everyone to pick up more ecological option; should one pick up the pen, or rather purchase a tablet, to reduce one's ecological footprint.
 
 -
 < Thank you slide, with release date of 1.11.2021 >
-We will be releasing the product on 1st of Novemeber 2021. Thanks a lot for your attention. 
+We will be releasing the product on 1st of Novemeber 2021. And we would love to see you all give it a go and hop on board for more ecological world. Thanks a lot for your attention. 
