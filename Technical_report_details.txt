@@ -1,3 +1,13 @@
+Technical report: The technical report is simply an essay you can return in PDF (max 5 pages). 
+This is the place to use the technical terminology, and refer to all the methods you used backend and normally wouldn't interest your target audience. 
+Reflect on your initial project proposal: what worked? What didn't (and why)? 
+What changes did you have to make from your initial plan and why? 
+Tell us about your experience, technical implementation of the project and reflect on your learning outcomes. 
+The structure of the report is up to you. 
+If it helps, you can use the elements of the project proposal, e.g. data collection, preprocessing, visualisations, machine learning, communication of results, building the platform, etc.
+
+-
+
 Challenges:
 - After we had decided on a question we wanted to address in our group work, we begun data exploration to see if we can find evidence to build a proper argument. It posed 
 a real challenge. Production processes for tablets and paper are complex and diverse. And same goes for energy production and recycling. Respectively, data were 
